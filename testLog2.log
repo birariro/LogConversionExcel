@@ -1,0 +1,30 @@
+[DEBUG] 2021-02-25 13:10:09.893 [5bacfed7531640ebaeea41bd50a71d76] (ExceptionLoggingAspect.java:38) - 
+#**# [F] - 2021-02-25 13:10:09.891
+	id: null
+	info: GET / 10.0.10.206 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 2ms
+#**#
+[DEBUG] 2021-02-25 13:25:56.696 [0884eb2a4e804f9e90de86f64977943a] (ExceptionLoggingAspect.java:38) - 
+#**# [F] - 2021-02-25 13:25:56.695
+	id: null
+	info: GET / 74.120.14.39 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+[DEBUG] 2021-02-25 13:25:57.072 [a978d95666074730a9f7a447c73e6d68] (ExceptionLoggingAspect.java:38) - 
+#**# [F] - 2021-02-25 13:25:57.071
+	id: null
+	info: GET / 74.120.14.39 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
