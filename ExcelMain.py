@@ -3,6 +3,13 @@ from Slave import ReadLogFile
 from Slave import ExcelUpdata
 from Slave import ExcelCreate
 
+"""
+Python Version = 3.9.2
+pip install openpyxl (version 1.4.1)
+
+"""
+
+
 # 생성될 엑셀 이름
 SAVE_FILE_NAME = "test.xlsx"
 
