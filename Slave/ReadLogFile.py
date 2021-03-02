@@ -65,8 +65,8 @@ def logStringConversion(logStr):
     
 
 # 로그 파일을 읽는다.
-def logFileRead(target):
-    logfile = open(target,'r')
+def logFileRead(target,LOG_FILE_PATH):
+    logfile = open(LOG_FILE_PATH+target,'r')
     while True:
         line = logfile.readline()
         if not line: 
@@ -76,16 +76,27 @@ def logFileRead(target):
 
 
 # 파일명에 .log 가 붙은 파일만 찾는다.
-def select_logFile():
-    fileList= os.listdir()
+def select_logFile(oldfiles,LOG_FILE_PATH):
+    fileList= os.listdir(LOG_FILE_PATH)
+
     for target in fileList:
         if ".log" in target: 
-            print(target+" 읽기")
-            readfileName.append(target[:])
-            logFileRead(target)
+            # 이미 읽은적이있는 파일인지 검사
+            isOverLap = isOverLapFile(oldfiles,target)
+            if isOverLap :
+                print(target+" 이미 읽은적 이있다.")
+            else :
+                print(target+" 읽기")
+                readfileName.append(target[:])
+                logFileRead(target,LOG_FILE_PATH)
+            
 
+def isOverLapFile(oldfiles,target):
+    for oldfile in oldfiles:
+        if target in oldfile:
+            return True
+    return False
 
-
-def run():
-    select_logFile()
+def run(oldfiles,LOG_FILE_PATH):
+    select_logFile(oldfiles,LOG_FILE_PATH)
     return result,readfileName

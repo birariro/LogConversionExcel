@@ -1,0 +1,10 @@
+#**# 2021-03-02 07:40:53.576 [e2e499a0bb334bd4b16085884f788eec]
+[F] - 2021-03-02 07:40:53.574
+	id: null
+	info: GET /boaform/admin/formLogin 42.232.230.53 
+	controller:  > 
+	query: {username=user&psd=user}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 2ms
+#**#

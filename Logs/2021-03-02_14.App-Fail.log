@@ -1,0 +1,50 @@
+#**# 2021-03-02 14:08:34.507 [eee520c71d424bb9968b19afc19c6619]
+[F] - 2021-03-02 14:08:34.502
+	id: null
+	info: GET / 184.105.247.254 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 5ms
+#**#
+#**# 2021-03-02 14:43:50.720 [990d1820a9a14aa79a39eaa4324ba9f6]
+[F] - 2021-03-02 14:43:50.689
+	id: null
+	info: GET / 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 31ms
+#**#
+#**# 2021-03-02 14:44:03.567 [02cfa257bde2437a9a58ccff86494ff6]
+[F] - 2021-03-02 14:44:03.565
+	id: null
+	info: GET /asd 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 2ms
+#**#
+#**# 2021-03-02 14:44:21.574 [8bb23cdad24947b8b9825c8c6db66e8b]
+[F] - 2021-03-02 14:44:21.573
+	id: null
+	info: GET /sawagger-ui.html 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 14:50:39.083 [57eb034bef6d4327a6196d6d3f770f92]
+[F] - 2021-03-02 14:50:39.082
+	id: null
+	info: GET / 192.35.168.128 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#

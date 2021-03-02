@@ -1,0 +1,150 @@
+#**# 2021-03-02 12:06:48.896 [5235be36001d46c9a5c45355fe60c56a]
+[F] - 2021-03-02 12:06:48.229
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 667ms
+#**#
+#**# 2021-03-02 12:06:59.433 [2b1806044cab4b508cb6662f2457e529]
+[F] - 2021-03-02 12:06:59.275
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 157ms
+#**#
+#**# 2021-03-02 12:07:02.348 [4602f2e5c6aa42ee837f660bd36321da]
+[F] - 2021-03-02 12:07:02.226
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 122ms
+#**#
+#**# 2021-03-02 12:07:14.774 [5c3a8ca3dc3944e28fc6cb224bd64907]
+[F] - 2021-03-02 12:07:14.756
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1011
+	elapsed-time: 18ms
+#**#
+#**# 2021-03-02 12:07:21.817 [446ea717f709431fb8363f9e2cf994bd]
+[F] - 2021-03-02 12:07:21.805
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1011
+	elapsed-time: 12ms
+#**#
+#**# 2021-03-02 12:08:02.915 [285454ddecb84f0dae551eb04293ee48]
+[F] - 2021-03-02 12:08:02.773
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 142ms
+#**#
+#**# 2021-03-02 12:09:31.475 [46f2ef4f66de4e938f1e3256c6da5b00]
+[F] - 2021-03-02 12:09:31.254
+	id: admin1
+	info: GET /swagger-ui.html/webjars/springfox-swagger-ui/springfox.js 14.206.18.218 KR
+	controller:  > 
+	query: {v=2.9.2}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 221ms
+#**#
+#**# 2021-03-02 12:09:31.477 [69ac4a7b9fe74d8ab13f06659579da4a]
+[F] - 2021-03-02 12:09:31.215
+	id: admin1
+	info: GET /swagger-ui.html/webjars/springfox-swagger-ui/springfox.css 14.206.18.218 KR
+	controller:  > 
+	query: {v=2.9.2}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 262ms
+#**#
+#**# 2021-03-02 12:09:31.476 [70c3c3dc793d4696a362a2999818f99f]
+[F] - 2021-03-02 12:09:31.251
+	id: admin1
+	info: GET /swagger-ui.html/webjars/springfox-swagger-ui/swagger-ui-bundle.js 14.206.18.218 KR
+	controller:  > 
+	query: {v=2.9.2}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 225ms
+#**#
+#**# 2021-03-02 12:09:31.738 [cdb31e698e414ab6acb35150f7dd5dbf]
+[F] - 2021-03-02 12:09:31.700
+	id: admin1
+	info: GET /swagger-ui.html/webjars/springfox-swagger-ui/favicon-16x16.png 14.206.18.218 KR
+	controller:  > 
+	query: {v=2.9.2}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 38ms
+#**#
+#**# 2021-03-02 12:10:14.297 [3d2af3a96e624d3dbba34bdd0cc71ea5]
+[F] - 2021-03-02 12:10:14.033
+	id: admin1
+	info: GET /csrf 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 264ms
+#**#
+#**# 2021-03-02 12:12:03.268 [d173a01c17f544158793b6279c3cad80]
+[F] - 2021-03-02 12:12:03.120
+	id: admin1
+	info: GET /swagger-ui.html/swagger-resources/configuration/ui 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 148ms
+#**#
+#**# 2021-03-02 12:12:11.580 [57477e5dc11948af8eb1089061df1f91]
+[F] - 2021-03-02 12:12:11.424
+	id: admin1
+	info: GET /null/swagger-resources/configuration/ui 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 156ms
+#**#
+#**# 2021-03-02 12:17:11.967 [4e0a0914b1a242a7a2e2f59e6ca195c4]
+[F] - 2021-03-02 12:17:11.899
+	id: admin1
+	info: GET / 14.206.18.218 KR
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 68ms
+#**#
+#**# 2021-03-02 12:49:43.049 [143b249937ad433499537eabb651f6c5]
+[F] - 2021-03-02 12:49:42.976
+	id: null
+	info: GET /lab 185.232.69.2 
+	controller:  > 
+	query: {}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 73ms
+#**#

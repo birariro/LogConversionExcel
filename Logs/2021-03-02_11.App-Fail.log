@@ -1,0 +1,60 @@
+#**# 2021-03-02 11:31:06.869 [f9dccedb6dd14648b6756652519baa5a]
+[F] - 2021-03-02 11:31:06.370
+	id: null
+	info: POST /user/login 223.39.215.205 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 499ms
+#**#
+#**# 2021-03-02 11:35:28.138 [ac9d6a4a10534b83b74a9fa6d1a9ecf5]
+[F] - 2021-03-02 11:35:28.007
+	id: null
+	info: POST /user/login 223.39.215.205 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 131ms
+#**#
+#**# 2021-03-02 11:35:33.676 [b11b3a8cdc40479fa35deaa51c514d1a]
+[F] - 2021-03-02 11:35:33.541
+	id: null
+	info: POST /user/login 223.39.215.205 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 135ms
+#**#
+#**# 2021-03-02 11:37:06.852 [86fdefa2c2804a54891835a077e2e4dc]
+[F] - 2021-03-02 11:37:06.623
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin1","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 229ms
+#**#
+#**# 2021-03-02 11:38:39.575 [87e7ae0242b4488c88afcbef84767181]
+[F] - 2021-03-02 11:38:39.534
+	id: null
+	info: POST /user/login 14.206.18.218 
+	controller: LoginController > login
+	query: {null}
+	body: {"id":"admin11","pwd":"qoom100411"}
+	returnCode: -1002
+	elapsed-time: 40ms
+#**#
+#**# 2021-03-02 11:57:00.194 [a54d57a462be49ba80284fef22a02fb3]
+[F] - 2021-03-02 11:57:00.065
+	id: null
+	info: GET /.env 150.136.111.230 
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 129ms
+#**#
