@@ -16,11 +16,11 @@ pip install openpyxl (version 1.4.1)
 
 
 # 생성될 엑셀 이름
-SAVE_FILE_NAME = "test.xlsx"
+SAVE_FILE_NAME = "Logs.xlsx"
 # 로그 파일 경로
 LOG_FILE_PATH = os.getcwd()+"\\Logs\\"
 
-# 화이트 리스트
+# 화이트 IP 리스트
 IP_WHITELIST = ["14.206.18.218","223.39.215.205"]
 #불필요한 로그의 패턴
 UNNECESSARY_PATTERNS=[['GET /','null',' '],['POST /','null',' ']]
