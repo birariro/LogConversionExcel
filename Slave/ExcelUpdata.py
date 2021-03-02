@@ -4,9 +4,7 @@ def runLog(EXCEL_NAME , datas):
     excel = load_workbook(EXCEL_NAME)
     excelSheet = excel.active
     max_row = excelSheet.max_row+1
-    print("사용할수있는 row 위치 "+str(max_row))
     data_row =1
-    
     for datalist in datas:
         excelSheet.cell(row = max_row+(data_row-1) ,column=1,value=datalist[0])
         excelSheet.cell(row = max_row+(data_row-1) ,column=2,value=datalist[1])

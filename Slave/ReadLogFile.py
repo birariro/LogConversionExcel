@@ -49,6 +49,7 @@ def endLog():
 
 
 def logStringConversion(logStr):
+
     
 
     if "[F]" in logStr:
@@ -98,5 +99,7 @@ def isOverLapFile(oldfiles,target):
     return False
 
 def run(oldfiles,LOG_FILE_PATH):
+ 
     select_logFile(oldfiles,LOG_FILE_PATH)
+    
     return result,readfileName

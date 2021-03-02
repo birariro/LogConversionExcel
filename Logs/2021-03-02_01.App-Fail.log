@@ -18,3 +18,13 @@
 	returnCode: -1(-1)
 	elapsed-time: 1ms
 #**#
+#**# 2021-03-02 01:07:01.982 [044d6118346d41109e542634b205e396]
+[F] - 2021-03-02 01:07:01.981
+	id: null
+	info: GET / 14.206.18.218
+	controller:  > 
+	query: {null}
+	body: 
+	returnCode: -1(-1)
+	elapsed-time: 1ms
+#**#

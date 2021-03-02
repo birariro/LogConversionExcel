@@ -44,14 +44,29 @@ def openExcel(EXCEL_NAME):
 
 
 
-    excel.create_sheet("ReadFileList") # 시트 생성과 동시에 이름 지정
-    excelSheet2 = excel["ReadFileList"]
-    excelSheet2["A1"]="FileName"
+
+
+    excel.create_sheet("AttackCount") # 시트 생성과 동시에 이름 지정
+    excelSheet2 = excel["AttackCount"]
+    excelSheet2["A1"]="Attack_IP"
     excelSheet2.freeze_panes = "A2" #행고정
     excelSheet2["A1"].fill = sheetPatternFill
     excelSheet2.column_dimensions["A"].width =30
 
+    excelSheet2["B1"]="Count"
+    excelSheet2["B1"].fill = sheetPatternFill
+    excelSheet2.column_dimensions["B"].width =20
+    
+
+
+    excel.create_sheet("ReadFileList") # 시트 생성과 동시에 이름 지정
+    excelSheet3 = excel["ReadFileList"]
+    excelSheet3["A1"]="FileName"
+    excelSheet3.freeze_panes = "A2" #행고정
+    excelSheet3["A1"].fill = sheetPatternFill
+    excelSheet3.column_dimensions["A"].width =30
     excel.save(EXCEL_NAME)
+
     
 
 
